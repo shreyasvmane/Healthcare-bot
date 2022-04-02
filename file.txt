@@ -1,0 +1,27 @@
+    "Hello",
+    "Hi there!",
+    "Hi",
+    "Hello!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "You're welcome.",
+    'What is your name?', 
+    'My name is Health ChatBot',
+    'Who created you?',
+    'Shreyas Mane, Aditya Tajane and Aditya Mhaske'
+    "Tell me about yourself",
+    "My name is Medical Diagnosis Chatbot. The Healthcare Chatbot project is developed to help the people to predict their health issue early at home before they visit the doctor or hospital for the minor problems. ",
+    "I am not feeling well",
+    "Enter your symptoms and predict the disease.",
+    "I have Fungal infection",
+    "Do not worry. Take precautions such as keep your skin clean and dry, particularly the folds of your skin.
+    wash your hands often, especially after touching animals or other people."
+    "Thank you",
+    "Should I consult doctor",
+    "Consult doctor if you are ill from more than 2 days",
+
+"
+
+    ""
